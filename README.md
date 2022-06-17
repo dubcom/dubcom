@@ -18,17 +18,17 @@ Hoje busco crescer nessa área da programação, que sempre foi uma paixão minh
 
 ## Top Languages
 
-**ReactJS
-Firebase
-AWS Lambda
-Javascript
-Bootstrap
-Wordpress
-PostgresSQL
-DynamonDB**
+- ReactJS
+- Firebase
+- AWS Lambda
+- Javascript
+- Bootstrap
+- Wordpress
+- PostgresSQL
+- DynamonDB
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="80" height="80"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubcom)](https://github.com/dubcom/github-readme-stats)
 
