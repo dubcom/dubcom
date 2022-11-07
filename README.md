@@ -41,7 +41,7 @@ Hoje busco crescer nessa área da programação, que sempre foi uma paixão minh
   <img src="./postgress.png" height="80"/>
   <img src="./mysql.png" height="80"/>
   <img src="./bootstrap.png" height="80"/>
-  <img src="./tailwind.png" height="80"/>
+  <img src="./tailwind2.png" height="80"/>
   <img src="./vite.png" height="80"/>
 
 
