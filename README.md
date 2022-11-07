@@ -33,17 +33,7 @@ Hoje busco crescer nessa área da programação, que sempre foi uma paixão minh
 - HTML
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="80" height="80"/>
-  <img src="./doker.png" width="80" height="80"/>
-  <img src="./html5.png" width="80" height="80"/>
-  <img src="./css.png" width="80" height="80"/>
-  <img src="./javascript.png" width="80" height="80"/>
-  <img src="./postgress.png" width="80" height="80"/>
-  <img src="./mysql.png" width="80" height="80"/>
-  <img src="./pngwing.com.png" width="80" height="80"/>
-  <img src="./bootstrap.png" width="80" height="80"/>
-  <img src="./css.png" width="80" height="80"/>
-  <img src="./tailwind.png" width="80" height="80"/>
+
 
   
 
