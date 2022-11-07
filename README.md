@@ -30,7 +30,9 @@ Hoje busco crescer nessa área da programação, que sempre foi uma paixão minh
 - SQL
 - Javascript
 - CSS
-- HTML
+- HTML 5
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  height="80"/>
   <img src="./doker.png" height="80"/>
   <img src="./html5.png" height="80"/>
