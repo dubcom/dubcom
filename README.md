@@ -31,7 +31,16 @@ Hoje busco crescer nessa área da programação, que sempre foi uma paixão minh
 - Javascript
 - CSS
 - HTML
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  height="80"/>
+  <img src="./doker.png" height="80"/>
+  <img src="./html5.png" height="80"/>
+  <img src="./css.png" height="80"/>
+  <img src="./javascript.png" height="80"/>
+  <img src="./postgress.png" height="80"/>
+  <img src="./mysql.png" height="80"/>
+  <img src="./bootstrap.png" height="80"/>
+  <img src="./tailwind.png" height="80"/>
+  <img src="./vite.png" heigt="80"/>
 
 
 
