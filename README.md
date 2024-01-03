@@ -1,24 +1,24 @@
-### Hi there 👋
+### Olá pessoal! 👋
 
-Estou envolvido com uma nova/velha paixão.
+Me chamo Marcos Antonio, um entusiasta da programação com mais de 5 anos de experiência, atuando como desenvolvedor pleno. Além disso, possuo conhecimentos sólidos em DevOps e expertise em plataformas como AWS, GCP, Azure, Docker, FlutterFlow e Wordpress.
 
-Em 1996 criei meu primeiro website (www.uces.org.br) de forma empírica, com o ["Netscape Composer"](https://pt.wikipedia.org/wiki/Netscape_Composer) (sim, faz tempo).
+#### Um pouco sobre minha jornada:
 
-Depois fui estudar [medicina em Cuba](https://pt.wikipedia.org/wiki/Escuela_Latinoamericana_de_Medicina) (não concluí a graduação, mas a experiência foi incrível), voltei ao Brasil, me formei em _Publicidade e Propaganda_, com isso montei uma [agência e trabalhei](https://www.dubcom.com.br) por 13 anos com diversas marcas e governos.
-Com as mudanças do mercado de MKT no mundo, estou voltando a atuar como desenvolvedor.
+Em 1996, dei meus primeiros passos na web criando meu primeiro website, [UCES](www.uces.org.br), utilizando o antigo "Netscape Composer". Embora tenha seguido para estudar medicina em Cuba, minha paixão pelo desenvolvimento nunca cessou.
 
-Graduado  em  Publicidade  e  Propaganda  com  vasta  experiência  profissional  em  níveis  nacional  e  internacional.  Tenho atuado em diversos cargos, incluindo Desenvolvedor Full Stack, Estagiário Front-end e Diretor de Agência de Marketing. Tenho habilidades em React Native e domínio em várias linguagens e tecnologias, como Javascript, React, HTML e CSS, além de Typescript, CSS-in-JS utilizando Styled Components e Integrações com APIs RESTful. Sou capaz de desenvolver componentes funcionais React hooks e gerenciar estados utilizando Redux. Combinando essas habilidades e experiência, sou capaz de oferecer soluções criativas e eficazes para projetos de desenvolvimento de software, garantindo o sucesso dos projetos.
+Após minha experiência internacional, retornei ao Brasil e me formei em Publicidade e Propaganda. Trabalhei por 13 anos em uma agência própria, [DubCom](https://www.dubcom.com.br), colaborando com diversas marcas e governos.
 
-Com isso estou com meu Github crescendo...
-Montei um projeto para [gerar PIX](https://www.gerapix.vercel.app) para pequenas empresas.
-Com esse projeto consegui meu primeiro trabalho como DEV em Londres. Estou aperfeiçoando meu inglês e falo espanhol fluente.
-Hoje busco crescer nessa área da programação, que sempre foi uma paixão minha.
+Atualmente, estou focando novamente na área de desenvolvimento, com habilidades em React Native, Javascript, React, HTML, CSS, Typescript, e Tailwind. Minha experiência abrange o desenvolvimento de componentes funcionais ReactJS, Nextjs, a gestão de estados com Redux, e integrações com APIs RESTfull.
+
+#### Meu GitHub em ascensão:
+
+Estou empolgado com o crescimento do meu [GitHub](https://github.com/dubcom), onde destaco o projeto [Gera PIX](https://pixqrcode.flutterflow.app/). Este projeto não só resultou em meu primeiro trabalho como DEV em Londres, mas também me proporcionou aprimorar meu inglês e fortalecer meu espanhol fluente.
 
 ### Projeto Gera PIX
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dubcom&repo=gerapix)](https://github.com/dubcom/gerapix)
 
-## Top Languages
+#### Principais Linguagens e Tecnologias:
 
 - ReactJS
 - Firebase
@@ -30,28 +30,24 @@ Hoje busco crescer nessa área da programação, que sempre foi uma paixão minh
 - DynamonDB
 - Docker
 - SQL
-- Javascript
 - CSS
 - HTML 5
 
+#### Algumas das tecnologias que domino:
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  height="80"/>
-  <img src="./doker.png" height="80"/>
-  <img src="./html5.png" height="80"/>
-  <img src="./css.png" height="80"/>
-  <img src="./javascript.png" height="80"/>
-  <img src="./postgress.png" height="80"/>
-  <img src="./mysql.png" height="80"/>
-  <img src="./bootstrap.png" height="80"/>
-  <img src="./tailwind2.png" height="80"/>
-  <img src="./vite.png" height="80"/>
-
-
-
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  height="80"/>
+<img src="./doker.png" height="80"/>
+<img src="./html5.png" height="80"/>
+<img src="./css.png" height="80"/>
+<img src="./javascript.png" height="80"/>
+<img src="./postgress.png" height="80"/>
+<img src="./mysql.png" height="80"/>
+<img src="./bootstrap.png" height="80"/>
+<img src="./tailwind2.png" height="80"/>
+<img src="./vite.png" height="80"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubcom)](https://github.com/dubcom/github-readme-stats)
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubcom&show_icons=true&theme=radical)
+
+Estou animado para continuar evoluindo e contribuindo para a comunidade de desenvolvedores! 🚀
