@@ -22,7 +22,10 @@ Estou empolgado com o crescimento do meu [GitHub](https://github.com/dubcom), on
 ReactJS | Firebase | AWS Lambda | Javascript | Bootstrap | Wordpress | PostgresSQL | DynamonDB | Docker | SQL | CSS | HTML 5
 
 **Algumas das tecnologias que domino:**
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) ![Docker](./doker.png) ![HTML5](./html5.png) ![CSS](./css.png) ![Javascript](./javascript.png) ![PostgreSQL](./postgress.png) ![MySQL](./mysql.png) ![Bootstrap](./bootstrap.png) ![Tailwind](./tailwind2.png) ![Vite](./vite.png)
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  height="60"/> <img src="./doker.png" height="60"/> <img src="./html5.png" height="60"/> <img src="./css.png" height="60"/> <img src="./javascript.png" height="60"/> <img src="./postgress.png" height="60"/> <img src="./mysql.png" height="60"/> <img src="./bootstrap.png" height="60"/> <img src="./tailwind2.png" height="60"/> <img src="./vite.png" height="60"/>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubcom)](https://github.com/dubcom/github-readme-stats)
